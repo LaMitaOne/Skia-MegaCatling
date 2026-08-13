@@ -62,4 +62,21 @@ License
      
 MIT License - Do whatever you want with it. Credits appreciated but not required.    
     
+Royalty free audios from https://www.pavsmusic.com/free-sound-pack-kits/      
+       
+More Gaming repos:   
+     
+🎮 Skia4Delphi Games (each one file, no ext engine):    
+2D Platformer https://github.com/LaMitaOne/Skia_PlatformerGame    
+2D Lemmings/Worms/Portal/Touch hybrid https://github.com/LaMitaOne/SkiaLemmings    
+2D Side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
+2.5D C&C style isometric rts https://github.com/LaMitaOne/Skia-RTS-Game    
+2.5D Isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
+2.5D Raycasting doom base https://github.com/LaMitaOne/SkiaDoomBase    
+Tetris clone https://github.com/LaMitaOne/Skiatris    
+    
+🎮 Game components FMX:    
+MRX Gamepad Core https://github.com/LaMitaOne/MRX-Gamepad-Core    
 
+More Catlings...    
+Skia Desktop Pet https://github.com/LaMitaOne/SkiaDesktopPetBase    
