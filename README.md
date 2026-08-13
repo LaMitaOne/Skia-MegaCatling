@@ -2,7 +2,9 @@
 A feature-rich 2D Sci-Fi shooter/platformer built entirely with Delphi FMX and Skia4Delphi.
       
 MegaCatling evolved from the original SkiaPlatformer base into a standalone action-platformer experience. It takes the core engine and injects it with modern platformer mechanics, advanced enemy AI, dynamic level hazards, and a seamless game flow.     
-    
+     
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Skia-MegaCatling)     
+     
 <img width="1920" height="1080" alt="_screenshot" src="https://github.com/user-attachments/assets/9239ac9e-7a1a-4143-93b5-018bc33e98fd" />
      
 🎮 Gameplay Features     
