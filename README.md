@@ -9,7 +9,7 @@ MegaCatling evolved from the original SkiaPlatformer base into a standalone acti
      
 🎮 Gameplay Features     
      
-     Advanced Movement: Double jumps, wall sliding, and wall jumping! Tight movement with acceleration, friction, and "squash & stretch" animations for juicy feedback.
+     Advanced Movement: Double jumps, wall sliding, and wall jumping!   
      Procedural Generation: Every level is randomly generated. It ensures gaps are jumpable, places moving platforms over pits, spawns floating "Sky Islands" with loot, and places the exit gate.
      Seamless Loading: Screen fades to black, level generates, and fades in. No hitches or UI freezes.
      Dynamic Camera: Smooth X/Y scrolling that follows the player, keeping the action centered while clamping to map boundaries.
