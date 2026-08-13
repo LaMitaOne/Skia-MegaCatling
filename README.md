@@ -19,7 +19,6 @@ MegaCatling evolved from the original SkiaPlatformer base into a standalone acti
          Flyers (Drones): Hover and maintain distance. 
      Hazards & Items: Moving platforms, conveyor belts, explosive crates, HP boosts, and temporary Damage boosts.
      Audio & Particles: Procedural particle explosions, muzzle flashes, running dust, and royalty-free sound effects.
-     Visual Filters: Toggle between standard rendering, retro film grain, and a VHS/Cuphead-style vintage overlay.
     
 🕹️ Controls    
     
@@ -29,7 +28,6 @@ MegaCatling evolved from the original SkiaPlatformer base into a standalone acti
      Shoot: E
      Pause Menu: Escape
      Reset Level: R (While paused)
-     Switch Visual Filters: F
     
 🛠️ Technical Details    
     
