@@ -50,7 +50,7 @@ MegaCatling evolved from the original SkiaPlatformer base into a standalone acti
 📜 Version History    
    
 v 0.1:       
-    - Advanced Player Physics: Implemented Double Jump, Wall Sliding, and Wall Jumping. Reworked gravity for better air control. Added "Squash & Stretch" animations for jumping and landing.     
+    - Advanced Player Physics: Implemented Double Jump, Wall Sliding, and Wall Jumping. Reworked gravity for better air control.      
     - New Enemy AI System:     
          Walkers: Now detect ledges (won't walk off cliffs) and shoot projectiles at the player.     
          Dogs: New aggressive charger enemy that lunges when the player is in range.     
