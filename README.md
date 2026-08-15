@@ -5,7 +5,7 @@ MegaCatling evolved from the original SkiaPlatformer base into a standalone acti
      
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Skia-MegaCatling)     
      
-<img width="1920" height="1080" alt="_screenshot" src="https://github.com/user-attachments/assets/9239ac9e-7a1a-4143-93b5-018bc33e98fd" />
+<img width="969" height="599" alt="Unbenannt" src="https://github.com/user-attachments/assets/ccdd7c7e-b73a-4e6b-b7e5-b6f6d088dae6" />
      
 🎮 Gameplay Features     
      
